@@ -1,1 +1,10 @@
-# WEBDEV-CAPSTONE
+<img width="1427" height="945" alt="Screenshot 2026-11-15 160519" src="https://github.com/user-attachments/assets/6f305208-665c-421f-bb57-d526106a17da" />
+<img width="1468" height="965" alt="Screenshot 2026-11-15 160244" src="https://github.com/user-attachments/assets/8c276f1f-dbf7-4763-826f-d3fafeeb6007" />
+<img width="1450" height="960" alt="Screenshot 2026-11-15 160150" src="https://github.com/user-attachments/assets/80b74599-3aa2-4c3f-9cef-d1fe9bb10d37" />
+<img width="1455" height="958" alt="Screenshot 2026-11-15 160123" src="https://github.com/user-attachments/assets/fd72d9ab-309e-465f-b183-bec17a7e1be2" />
+<img width="1441" height="968" alt="Screenshot 2026-11-15 155807" src="https://github.com/user-attachments/assets/d882d825-c9cd-4d77-8184-801223843a3e" />
+<img width="1441" height="967" alt="Screenshot 2026-11-15 155714" src="https://github.com/user-attachments/assets/d49a0a44-457f-4209-9fbe-e784b34f9cf2" />
+<img width="1917" height="997" alt="Screenshot 2026-11-15 155556" src="https://github.com/user-attachments/assets/fd385dd8-4239-46f7-bc20-6839301e6be4" />
+<img width="1447" height="947" alt="Screenshot 2026-11-15 134107" src="https://github.com/user-attachments/assets/53112abf-327a-4883-8333-66dfcec3f2be" />
+<img width="1478" height="941" alt="Screenshot 2026-11-15 133517" src="https://github.com/user-attachments/assets/656394f5-6d84-4b63-b25f-e11e237894c1" />
+<img width="1461" height="967" alt="Screenshot 2026-11-15 133448" src="https://github.com/user-attachments/assets/9c6d5814-8b76-4add-8281-a737bdbb15a9" />
